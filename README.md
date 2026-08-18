@@ -16,3 +16,4 @@
 1. **Compile:**
    ```bash
    make treedata
+   ./treedata
